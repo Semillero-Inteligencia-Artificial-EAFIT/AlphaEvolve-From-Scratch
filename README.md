@@ -7,9 +7,7 @@ Contributors: This is done by Semillero ML EAFIT
 
 # Run
 
-```bash
-python3 -m venv env
-source env/bin/activate
-pip install -r requirements.txt
-python alphaevolve-from-scratch
-``
+    python3 -m venv env
+    source env/bin/activate
+    pip install -r requirements.txt
+    python alphaevolve-from-scratch``
